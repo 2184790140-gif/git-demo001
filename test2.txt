@@ -1,3 +1,8 @@
 VSCode集成Git测试
+ HEAD
 练习Convent
 main分支版本文字
+
+练习Conventional Commits提交规范
+dev分支修改内容
+ dev
