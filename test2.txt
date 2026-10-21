@@ -1,2 +1,3 @@
 VSCode集成Git测试
-练习Conventional Commits提交规范
+练习Convent
+main分支版本文字
